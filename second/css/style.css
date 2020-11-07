@@ -1,0 +1,89 @@
+body {
+  background-color: #ddf3f5;
+  text-align: center;
+  margin: 0px 0px 0px 0px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 20%;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 15%;
+  top: 100px;
+}
+
+.first {
+  padding-top: 80px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.middle-container {
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+.prof {
+  weight: 100px;
+  height: 100px;
+  border-radius: 100px;
+    float: left;
+    margin-right: 20px;
+
+  }
+
+.chilli {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  background-color: red;
+  float: right;
+  margin-left: 20px;
+}
+
+.parrot {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  background-color: red;
+  float: left;
+  margin: 0px 20px 30px 0px;
+}
+
+.touch {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  background-color: blue;
+}
+
+.bottom-container {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+hr {
+color: black;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 50px;
+  margin: 50px auto 50px auto;
+  }
+.profile{
+  width: 50%;
+  height:200px;
+  text-align: left;
+  margin: 50px auto 0px auto;
+}
+.skill-row{
+  width: 50%;
+  height: 250px;
+  line-height: 2;
+  text-align: left;
+  margin:50px auto 50px auto;
+}
